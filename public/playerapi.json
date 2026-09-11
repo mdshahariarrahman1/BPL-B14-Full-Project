@@ -1,0 +1,92 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-nMr3mVfBK1tg_97yykCYTFX_YWFF-EU76idwzoIZzb-S9bNFQ5My9kn58ndutUn6qT_5Nhg6DNqORjc4iyBl9dHT9wOSI9IsulPRir5v7ebxYMUa2rmPJG_HNZISGL6jRbe7Slggn5w/s0-rw/Virat-Kohli-Wiki.jpg",
+    "origin": "India",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand bat",
+    "price": 1200000
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerImage": "https://resources.cricket-australia.pulselive.com/photo-resources/2025/12/18/3f2c04ba-1b29-432d-a90a-0d242ccff23f/babar_azam.png?width=950&height=535",
+    "origin": "Pakistan",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand bat",
+    "price": 1100000
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerImage": "https://www.bssnews.net/assets/news_photos/2023/03/14/image-115605-1678807950.jpg",
+    "origin": "Bangladesh",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "battingStyle": "Left-hand bat",
+    "price": 950000
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerImage": "https://static.toiimg.com/thumb/msid-128806917,imgsize-96262,width-400,resizemode-4/jasprit-bumrah.jpg",
+    "origin": "India",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand bat",
+    "price": 1000000
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerImage": "https://c.ndtvimg.com/2024-06/8mvq5v38_rashid-khan_625x300_26_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm leg break",
+    "battingStyle": "Right-hand bat",
+    "price": 900000
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerImage": "https://www.hindustantimes.com/ht-img/img/2025/02/28/960x540/CRICKET-CT-2025-ENG-AFG-48_1740750868462_1740750873504.jpg",
+    "origin": "England",
+    "playerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand bat",
+    "price": 1150000
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerImage": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9c0f/live/56fb54f0-b7b9-11f0-8890-4fd368758e8f.jpg.webp",
+    "origin": "New Zealand",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-hand bat",
+    "price": 1050000
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerImage": "https://resources.cricket-australia.pulselive.com/photo-resources/2023/05/05/402be5ec-36af-495c-9e5b-102edc3228cf/D5h6uQqR.ashx?width=950&height=535",
+    "origin": "New Zealand",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm fast-medium",
+    "battingStyle": "Left-hand bat",
+    "price": 850000
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerImage": "https://e0.365dm.com/25/12/1600x900/skysports-ben-stokes-england-test-cricket_7111864.jpg?20251216110403",
+    "origin": "England",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm fast-medium",
+    "battingStyle": "Left-hand bat",
+    "price": 1000000
+  },
+  {
+    "playerName": "Mohammad Rizwan",
+    "playerImage": "https://c.ndtvimg.com/2024-11/ghb5famg_mohammad-rizwan_625x300_08_November_24.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+    "origin": "Pakistan",
+    "playerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand bat",
+    "price": 800000
+  }
+]
